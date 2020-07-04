@@ -1,0 +1,33 @@
+
+h1 {
+    color:blue;  
+    border:solid;
+  }
+  
+ .header{
+    background-color:orange;
+    justify-content:space-evenly;
+ }
+ .footer{
+     background-color: blueviolet;
+ }
+ 
+ .header2{
+    background-color:lightgreen;
+    justify-content:space-evenly; 
+ }
+ .footer2{
+     background-color: yellow;
+ }
+ .footer3{
+   background-color: tomato;
+ }
+ .header3{
+   background-color: gold;
+ }
+ .footer4{
+   background-color: mediumspringgreen;
+ }
+ .header4{
+   background-color: burlywood;
+ }
